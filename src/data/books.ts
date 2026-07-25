@@ -22,4 +22,4 @@ export const books: Product[] = [
   { id: 19, title: "Blue Lock - Vol. 4", price: 12.99, image: "https://placehold.co/300x450/01579b/fff?text=Blue+Lock+4", quantity: 0 },
   { id: 20, title: "Blue Lock - Vol. 5", price: 12.99, image: "https://placehold.co/300x450/01579b/fff?text=Blue+Lock+5", quantity: 0 }
 ];
-// prueba 1
+// prueba 
